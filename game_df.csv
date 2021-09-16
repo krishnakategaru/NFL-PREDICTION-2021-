@@ -1,0 +1,553 @@
+,boxscore,away_name,away_abbr,away_score,home_name,home_abbr,home_score,winning_name,winning_abbr,losing_name,losing_abbr,week,year
+0,201909050chi,Green Bay Packers,gnb,10,Chicago Bears,chi,3,Green Bay Packers,gnb,Chicago Bears,chi,1,2019
+1,201909080cle,Tennessee Titans,oti,43,Cleveland Browns,cle,13,Tennessee Titans,oti,Cleveland Browns,cle,1,2019
+2,201909080car,Los Angeles Rams,ram,30,Carolina Panthers,car,27,Los Angeles Rams,ram,Carolina Panthers,car,1,2019
+3,201909080phi,Washington Redskins,was,27,Philadelphia Eagles,phi,32,Philadelphia Eagles,phi,Washington Redskins,was,1,2019
+4,201909080nyj,Buffalo Bills,buf,17,New York Jets,nyj,16,Buffalo Bills,buf,New York Jets,nyj,1,2019
+5,201909080min,Atlanta Falcons,atl,12,Minnesota Vikings,min,28,Minnesota Vikings,min,Atlanta Falcons,atl,1,2019
+6,201909080mia,Baltimore Ravens,rav,59,Miami Dolphins,mia,10,Baltimore Ravens,rav,Miami Dolphins,mia,1,2019
+7,201909080jax,Kansas City Chiefs,kan,40,Jacksonville Jaguars,jax,26,Kansas City Chiefs,kan,Jacksonville Jaguars,jax,1,2019
+8,201909080sea,Cincinnati Bengals,cin,20,Seattle Seahawks,sea,21,Seattle Seahawks,sea,Cincinnati Bengals,cin,1,2019
+9,201909080sdg,Indianapolis Colts,clt,24,Los Angeles Chargers,sdg,30,Los Angeles Chargers,sdg,Indianapolis Colts,clt,1,2019
+10,201909080tam,San Francisco 49ers,sfo,31,Tampa Bay Buccaneers,tam,17,San Francisco 49ers,sfo,Tampa Bay Buccaneers,tam,1,2019
+11,201909080dal,New York Giants,nyg,17,Dallas Cowboys,dal,35,Dallas Cowboys,dal,New York Giants,nyg,1,2019
+12,201909080crd,Detroit Lions,det,27,Arizona Cardinals,crd,27,,,,,1,2019
+13,201909080nwe,Pittsburgh Steelers,pit,3,New England Patriots,nwe,33,New England Patriots,nwe,Pittsburgh Steelers,pit,1,2019
+14,201909090nor,Houston Texans,htx,28,New Orleans Saints,nor,30,New Orleans Saints,nor,Houston Texans,htx,1,2019
+15,201909090rai,Denver Broncos,den,16,Oakland Raiders,rai,24,Oakland Raiders,rai,Denver Broncos,den,1,2019
+16,201909120car,Tampa Bay Buccaneers,tam,20,Carolina Panthers,car,14,Tampa Bay Buccaneers,tam,Carolina Panthers,car,2,2019
+17,201909150cin,San Francisco 49ers,sfo,41,Cincinnati Bengals,cin,17,San Francisco 49ers,sfo,Cincinnati Bengals,cin,2,2019
+18,201909150was,Dallas Cowboys,dal,31,Washington Redskins,was,21,Dallas Cowboys,dal,Washington Redskins,was,2,2019
+19,201909150rav,Arizona Cardinals,crd,17,Baltimore Ravens,rav,23,Baltimore Ravens,rav,Arizona Cardinals,crd,2,2019
+20,201909150pit,Seattle Seahawks,sea,28,Pittsburgh Steelers,pit,26,Seattle Seahawks,sea,Pittsburgh Steelers,pit,2,2019
+21,201909150oti,Indianapolis Colts,clt,19,Tennessee Titans,oti,17,Indianapolis Colts,clt,Tennessee Titans,oti,2,2019
+22,201909150nyg,Buffalo Bills,buf,28,New York Giants,nyg,14,Buffalo Bills,buf,New York Giants,nyg,2,2019
+23,201909150mia,New England Patriots,nwe,43,Miami Dolphins,mia,0,New England Patriots,nwe,Miami Dolphins,mia,2,2019
+24,201909150htx,Jacksonville Jaguars,jax,12,Houston Texans,htx,13,Houston Texans,htx,Jacksonville Jaguars,jax,2,2019
+25,201909150gnb,Minnesota Vikings,min,16,Green Bay Packers,gnb,21,Green Bay Packers,gnb,Minnesota Vikings,min,2,2019
+26,201909150det,Los Angeles Chargers,sdg,10,Detroit Lions,det,13,Detroit Lions,det,Los Angeles Chargers,sdg,2,2019
+27,201909150rai,Kansas City Chiefs,kan,28,Oakland Raiders,rai,10,Kansas City Chiefs,kan,Oakland Raiders,rai,2,2019
+28,201909150ram,New Orleans Saints,nor,9,Los Angeles Rams,ram,27,Los Angeles Rams,ram,New Orleans Saints,nor,2,2019
+29,201909150den,Chicago Bears,chi,16,Denver Broncos,den,14,Chicago Bears,chi,Denver Broncos,den,2,2019
+30,201909150atl,Philadelphia Eagles,phi,20,Atlanta Falcons,atl,24,Atlanta Falcons,atl,Philadelphia Eagles,phi,2,2019
+31,201909160nyj,Cleveland Browns,cle,23,New York Jets,nyj,3,Cleveland Browns,cle,New York Jets,nyj,2,2019
+32,201909190jax,Tennessee Titans,oti,7,Jacksonville Jaguars,jax,20,Jacksonville Jaguars,jax,Tennessee Titans,oti,3,2019
+33,201909220buf,Cincinnati Bengals,cin,17,Buffalo Bills,buf,21,Buffalo Bills,buf,Cincinnati Bengals,cin,3,2019
+34,201909220phi,Detroit Lions,det,27,Philadelphia Eagles,phi,24,Detroit Lions,det,Philadelphia Eagles,phi,3,2019
+35,201909220nwe,New York Jets,nyj,14,New England Patriots,nwe,30,New England Patriots,nwe,New York Jets,nyj,3,2019
+36,201909220min,Oakland Raiders,rai,14,Minnesota Vikings,min,34,Minnesota Vikings,min,Oakland Raiders,rai,3,2019
+37,201909220kan,Baltimore Ravens,rav,28,Kansas City Chiefs,kan,33,Kansas City Chiefs,kan,Baltimore Ravens,rav,3,2019
+38,201909220gnb,Denver Broncos,den,16,Green Bay Packers,gnb,27,Green Bay Packers,gnb,Denver Broncos,den,3,2019
+39,201909220dal,Miami Dolphins,mia,6,Dallas Cowboys,dal,31,Dallas Cowboys,dal,Miami Dolphins,mia,3,2019
+40,201909220clt,Atlanta Falcons,atl,24,Indianapolis Colts,clt,27,Indianapolis Colts,clt,Atlanta Falcons,atl,3,2019
+41,201909220tam,New York Giants,nyg,32,Tampa Bay Buccaneers,tam,31,New York Giants,nyg,Tampa Bay Buccaneers,tam,3,2019
+42,201909220crd,Carolina Panthers,car,38,Arizona Cardinals,crd,20,Carolina Panthers,car,Arizona Cardinals,crd,3,2019
+43,201909220sfo,Pittsburgh Steelers,pit,20,San Francisco 49ers,sfo,24,San Francisco 49ers,sfo,Pittsburgh Steelers,pit,3,2019
+44,201909220sea,New Orleans Saints,nor,33,Seattle Seahawks,sea,27,New Orleans Saints,nor,Seattle Seahawks,sea,3,2019
+45,201909220sdg,Houston Texans,htx,27,Los Angeles Chargers,sdg,20,Houston Texans,htx,Los Angeles Chargers,sdg,3,2019
+46,201909220cle,Los Angeles Rams,ram,20,Cleveland Browns,cle,13,Los Angeles Rams,ram,Cleveland Browns,cle,3,2019
+47,201909230was,Chicago Bears,chi,31,Washington Redskins,was,15,Chicago Bears,chi,Washington Redskins,was,3,2019
+48,201909260gnb,Philadelphia Eagles,phi,34,Green Bay Packers,gnb,27,Philadelphia Eagles,phi,Green Bay Packers,gnb,4,2019
+49,201909290buf,New England Patriots,nwe,16,Buffalo Bills,buf,10,New England Patriots,nwe,Buffalo Bills,buf,4,2019
+50,201909290atl,Tennessee Titans,oti,24,Atlanta Falcons,atl,10,Tennessee Titans,oti,Atlanta Falcons,atl,4,2019
+51,201909290rav,Cleveland Browns,cle,40,Baltimore Ravens,rav,25,Cleveland Browns,cle,Baltimore Ravens,rav,4,2019
+52,201909290nyg,Washington Redskins,was,3,New York Giants,nyg,24,New York Giants,nyg,Washington Redskins,was,4,2019
+53,201909290mia,Los Angeles Chargers,sdg,30,Miami Dolphins,mia,10,Los Angeles Chargers,sdg,Miami Dolphins,mia,4,2019
+54,201909290htx,Carolina Panthers,car,16,Houston Texans,htx,10,Carolina Panthers,car,Houston Texans,htx,4,2019
+55,201909290det,Kansas City Chiefs,kan,34,Detroit Lions,det,30,Kansas City Chiefs,kan,Detroit Lions,det,4,2019
+56,201909290clt,Oakland Raiders,rai,31,Indianapolis Colts,clt,24,Oakland Raiders,rai,Indianapolis Colts,clt,4,2019
+57,201909290ram,Tampa Bay Buccaneers,tam,55,Los Angeles Rams,ram,40,Tampa Bay Buccaneers,tam,Los Angeles Rams,ram,4,2019
+58,201909290crd,Seattle Seahawks,sea,27,Arizona Cardinals,crd,10,Seattle Seahawks,sea,Arizona Cardinals,crd,4,2019
+59,201909290den,Jacksonville Jaguars,jax,26,Denver Broncos,den,24,Jacksonville Jaguars,jax,Denver Broncos,den,4,2019
+60,201909290chi,Minnesota Vikings,min,6,Chicago Bears,chi,16,Chicago Bears,chi,Minnesota Vikings,min,4,2019
+61,201909290nor,Dallas Cowboys,dal,10,New Orleans Saints,nor,12,New Orleans Saints,nor,Dallas Cowboys,dal,4,2019
+62,201909300pit,Cincinnati Bengals,cin,3,Pittsburgh Steelers,pit,27,Pittsburgh Steelers,pit,Cincinnati Bengals,cin,4,2019
+63,201910030sea,Los Angeles Rams,ram,29,Seattle Seahawks,sea,30,Seattle Seahawks,sea,Los Angeles Rams,ram,5,2019
+64,201910060cin,Arizona Cardinals,crd,26,Cincinnati Bengals,cin,23,Arizona Cardinals,crd,Cincinnati Bengals,cin,5,2019
+65,201910060car,Jacksonville Jaguars,jax,27,Carolina Panthers,car,34,Carolina Panthers,car,Jacksonville Jaguars,jax,5,2019
+66,201910060was,New England Patriots,nwe,33,Washington Redskins,was,7,New England Patriots,nwe,Washington Redskins,was,5,2019
+67,201910060rai,Chicago Bears,chi,21,Oakland Raiders,rai,24,Oakland Raiders,rai,Chicago Bears,chi,5,2019
+68,201910060pit,Baltimore Ravens,rav,26,Pittsburgh Steelers,pit,23,Baltimore Ravens,rav,Pittsburgh Steelers,pit,5,2019
+69,201910060phi,New York Jets,nyj,6,Philadelphia Eagles,phi,31,Philadelphia Eagles,phi,New York Jets,nyj,5,2019
+70,201910060oti,Buffalo Bills,buf,14,Tennessee Titans,oti,7,Buffalo Bills,buf,Tennessee Titans,oti,5,2019
+71,201910060nyg,Minnesota Vikings,min,28,New York Giants,nyg,10,Minnesota Vikings,min,New York Giants,nyg,5,2019
+72,201910060nor,Tampa Bay Buccaneers,tam,24,New Orleans Saints,nor,31,New Orleans Saints,nor,Tampa Bay Buccaneers,tam,5,2019
+73,201910060htx,Atlanta Falcons,atl,32,Houston Texans,htx,53,Houston Texans,htx,Atlanta Falcons,atl,5,2019
+74,201910060sdg,Denver Broncos,den,20,Los Angeles Chargers,sdg,13,Denver Broncos,den,Los Angeles Chargers,sdg,5,2019
+75,201910060dal,Green Bay Packers,gnb,34,Dallas Cowboys,dal,24,Green Bay Packers,gnb,Dallas Cowboys,dal,5,2019
+76,201910060kan,Indianapolis Colts,clt,19,Kansas City Chiefs,kan,13,Indianapolis Colts,clt,Kansas City Chiefs,kan,5,2019
+77,201910070sfo,Cleveland Browns,cle,3,San Francisco 49ers,sfo,31,San Francisco 49ers,sfo,Cleveland Browns,cle,5,2019
+78,201910100nwe,New York Giants,nyg,14,New England Patriots,nwe,35,New England Patriots,nwe,New York Giants,nyg,6,2019
+79,201910130tam,Carolina Panthers,car,37,Tampa Bay Buccaneers,tam,26,Carolina Panthers,car,Tampa Bay Buccaneers,tam,6,2019
+80,201910130cle,Seattle Seahawks,sea,32,Cleveland Browns,cle,28,Seattle Seahawks,sea,Cleveland Browns,cle,6,2019
+81,201910130rav,Cincinnati Bengals,cin,17,Baltimore Ravens,rav,23,Baltimore Ravens,rav,Cincinnati Bengals,cin,6,2019
+82,201910130min,Philadelphia Eagles,phi,20,Minnesota Vikings,min,38,Minnesota Vikings,min,Philadelphia Eagles,phi,6,2019
+83,201910130mia,Washington Redskins,was,17,Miami Dolphins,mia,16,Washington Redskins,was,Miami Dolphins,mia,6,2019
+84,201910130kan,Houston Texans,htx,31,Kansas City Chiefs,kan,24,Houston Texans,htx,Kansas City Chiefs,kan,6,2019
+85,201910130jax,New Orleans Saints,nor,13,Jacksonville Jaguars,jax,6,New Orleans Saints,nor,Jacksonville Jaguars,jax,6,2019
+86,201910130crd,Atlanta Falcons,atl,33,Arizona Cardinals,crd,34,Arizona Cardinals,crd,Atlanta Falcons,atl,6,2019
+87,201910130ram,San Francisco 49ers,sfo,20,Los Angeles Rams,ram,7,San Francisco 49ers,sfo,Los Angeles Rams,ram,6,2019
+88,201910130nyj,Dallas Cowboys,dal,22,New York Jets,nyj,24,New York Jets,nyj,Dallas Cowboys,dal,6,2019
+89,201910130den,Tennessee Titans,oti,0,Denver Broncos,den,16,Denver Broncos,den,Tennessee Titans,oti,6,2019
+90,201910130sdg,Pittsburgh Steelers,pit,24,Los Angeles Chargers,sdg,17,Pittsburgh Steelers,pit,Los Angeles Chargers,sdg,6,2019
+91,201910140gnb,Detroit Lions,det,22,Green Bay Packers,gnb,23,Green Bay Packers,gnb,Detroit Lions,det,6,2019
+92,201910170den,Kansas City Chiefs,kan,30,Denver Broncos,den,6,Kansas City Chiefs,kan,Denver Broncos,den,7,2019
+93,201910200buf,Miami Dolphins,mia,21,Buffalo Bills,buf,31,Buffalo Bills,buf,Miami Dolphins,mia,7,2019
+94,201910200atl,Los Angeles Rams,ram,37,Atlanta Falcons,atl,10,Los Angeles Rams,ram,Atlanta Falcons,atl,7,2019
+95,201910200was,San Francisco 49ers,sfo,9,Washington Redskins,was,0,San Francisco 49ers,sfo,Washington Redskins,was,7,2019
+96,201910200nyg,Arizona Cardinals,crd,27,New York Giants,nyg,21,Arizona Cardinals,crd,New York Giants,nyg,7,2019
+97,201910200gnb,Oakland Raiders,rai,24,Green Bay Packers,gnb,42,Green Bay Packers,gnb,Oakland Raiders,rai,7,2019
+98,201910200det,Minnesota Vikings,min,42,Detroit Lions,det,30,Minnesota Vikings,min,Detroit Lions,det,7,2019
+99,201910200clt,Houston Texans,htx,23,Indianapolis Colts,clt,30,Indianapolis Colts,clt,Houston Texans,htx,7,2019
+100,201910200cin,Jacksonville Jaguars,jax,27,Cincinnati Bengals,cin,17,Jacksonville Jaguars,jax,Cincinnati Bengals,cin,7,2019
+101,201910200oti,Los Angeles Chargers,sdg,20,Tennessee Titans,oti,23,Tennessee Titans,oti,Los Angeles Chargers,sdg,7,2019
+102,201910200sea,Baltimore Ravens,rav,30,Seattle Seahawks,sea,16,Baltimore Ravens,rav,Seattle Seahawks,sea,7,2019
+103,201910200chi,New Orleans Saints,nor,36,Chicago Bears,chi,25,New Orleans Saints,nor,Chicago Bears,chi,7,2019
+104,201910200dal,Philadelphia Eagles,phi,10,Dallas Cowboys,dal,37,Dallas Cowboys,dal,Philadelphia Eagles,phi,7,2019
+105,201910210nyj,New England Patriots,nwe,33,New York Jets,nyj,0,New England Patriots,nwe,New York Jets,nyj,7,2019
+106,201910240min,Washington Redskins,was,9,Minnesota Vikings,min,19,Minnesota Vikings,min,Washington Redskins,was,8,2019
+107,201910270buf,Philadelphia Eagles,phi,31,Buffalo Bills,buf,13,Philadelphia Eagles,phi,Buffalo Bills,buf,8,2019
+108,201910270atl,Seattle Seahawks,sea,27,Atlanta Falcons,atl,20,Seattle Seahawks,sea,Atlanta Falcons,atl,8,2019
+109,201910270ram,Cincinnati Bengals,cin,10,Los Angeles Rams,ram,24,Los Angeles Rams,ram,Cincinnati Bengals,cin,8,2019
+110,201910270oti,Tampa Bay Buccaneers,tam,23,Tennessee Titans,oti,27,Tennessee Titans,oti,Tampa Bay Buccaneers,tam,8,2019
+111,201910270nor,Arizona Cardinals,crd,9,New Orleans Saints,nor,31,New Orleans Saints,nor,Arizona Cardinals,crd,8,2019
+112,201910270jax,New York Jets,nyj,15,Jacksonville Jaguars,jax,29,Jacksonville Jaguars,jax,New York Jets,nyj,8,2019
+113,201910270det,New York Giants,nyg,26,Detroit Lions,det,31,Detroit Lions,det,New York Giants,nyg,8,2019
+114,201910270clt,Denver Broncos,den,13,Indianapolis Colts,clt,15,Indianapolis Colts,clt,Denver Broncos,den,8,2019
+115,201910270chi,Los Angeles Chargers,sdg,17,Chicago Bears,chi,16,Los Angeles Chargers,sdg,Chicago Bears,chi,8,2019
+116,201910270sfo,Carolina Panthers,car,13,San Francisco 49ers,sfo,51,San Francisco 49ers,sfo,Carolina Panthers,car,8,2019
+117,201910270nwe,Cleveland Browns,cle,13,New England Patriots,nwe,27,New England Patriots,nwe,Cleveland Browns,cle,8,2019
+118,201910270htx,Oakland Raiders,rai,24,Houston Texans,htx,27,Houston Texans,htx,Oakland Raiders,rai,8,2019
+119,201910270kan,Green Bay Packers,gnb,31,Kansas City Chiefs,kan,24,Green Bay Packers,gnb,Kansas City Chiefs,kan,8,2019
+120,201910280pit,Miami Dolphins,mia,14,Pittsburgh Steelers,pit,27,Pittsburgh Steelers,pit,Miami Dolphins,mia,8,2019
+121,201910310crd,San Francisco 49ers,sfo,28,Arizona Cardinals,crd,25,San Francisco 49ers,sfo,Arizona Cardinals,crd,9,2019
+122,201911030jax,Houston Texans,htx,26,Jacksonville Jaguars,jax,3,Houston Texans,htx,Jacksonville Jaguars,jax,9,2019
+123,201911030car,Tennessee Titans,oti,20,Carolina Panthers,car,30,Carolina Panthers,car,Tennessee Titans,oti,9,2019
+124,201911030buf,Washington Redskins,was,9,Buffalo Bills,buf,24,Buffalo Bills,buf,Washington Redskins,was,9,2019
+125,201911030pit,Indianapolis Colts,clt,24,Pittsburgh Steelers,pit,26,Pittsburgh Steelers,pit,Indianapolis Colts,clt,9,2019
+126,201911030phi,Chicago Bears,chi,14,Philadelphia Eagles,phi,22,Philadelphia Eagles,phi,Chicago Bears,chi,9,2019
+127,201911030mia,New York Jets,nyj,18,Miami Dolphins,mia,26,Miami Dolphins,mia,New York Jets,nyj,9,2019
+128,201911030kan,Minnesota Vikings,min,23,Kansas City Chiefs,kan,26,Kansas City Chiefs,kan,Minnesota Vikings,min,9,2019
+129,201911030sea,Tampa Bay Buccaneers,tam,34,Seattle Seahawks,sea,40,Seattle Seahawks,sea,Tampa Bay Buccaneers,tam,9,2019
+130,201911030rai,Detroit Lions,det,24,Oakland Raiders,rai,31,Oakland Raiders,rai,Detroit Lions,det,9,2019
+131,201911030sdg,Green Bay Packers,gnb,11,Los Angeles Chargers,sdg,26,Los Angeles Chargers,sdg,Green Bay Packers,gnb,9,2019
+132,201911030den,Cleveland Browns,cle,19,Denver Broncos,den,24,Denver Broncos,den,Cleveland Browns,cle,9,2019
+133,201911030rav,New England Patriots,nwe,20,Baltimore Ravens,rav,37,Baltimore Ravens,rav,New England Patriots,nwe,9,2019
+134,201911040nyg,Dallas Cowboys,dal,37,New York Giants,nyg,18,Dallas Cowboys,dal,New York Giants,nyg,9,2019
+135,201911070rai,Los Angeles Chargers,sdg,24,Oakland Raiders,rai,26,Oakland Raiders,rai,Los Angeles Chargers,sdg,10,2019
+136,201911100cin,Baltimore Ravens,rav,49,Cincinnati Bengals,cin,13,Baltimore Ravens,rav,Cincinnati Bengals,cin,10,2019
+137,201911100chi,Detroit Lions,det,13,Chicago Bears,chi,20,Chicago Bears,chi,Detroit Lions,det,10,2019
+138,201911100tam,Arizona Cardinals,crd,27,Tampa Bay Buccaneers,tam,30,Tampa Bay Buccaneers,tam,Arizona Cardinals,crd,10,2019
+139,201911100oti,Kansas City Chiefs,kan,32,Tennessee Titans,oti,35,Tennessee Titans,oti,Kansas City Chiefs,kan,10,2019
+140,201911100nyj,New York Giants,nyg,27,New York Jets,nyj,34,New York Jets,nyj,New York Giants,nyg,10,2019
+141,201911100nor,Atlanta Falcons,atl,26,New Orleans Saints,nor,9,Atlanta Falcons,atl,New Orleans Saints,nor,10,2019
+142,201911100cle,Buffalo Bills,buf,16,Cleveland Browns,cle,19,Cleveland Browns,cle,Buffalo Bills,buf,10,2019
+143,201911100clt,Miami Dolphins,mia,16,Indianapolis Colts,clt,12,Miami Dolphins,mia,Indianapolis Colts,clt,10,2019
+144,201911100pit,Los Angeles Rams,ram,12,Pittsburgh Steelers,pit,17,Pittsburgh Steelers,pit,Los Angeles Rams,ram,10,2019
+145,201911100gnb,Carolina Panthers,car,16,Green Bay Packers,gnb,24,Green Bay Packers,gnb,Carolina Panthers,car,10,2019
+146,201911100dal,Minnesota Vikings,min,28,Dallas Cowboys,dal,24,Minnesota Vikings,min,Dallas Cowboys,dal,10,2019
+147,201911110sfo,Seattle Seahawks,sea,27,San Francisco 49ers,sfo,24,Seattle Seahawks,sea,San Francisco 49ers,sfo,10,2019
+148,201911140cle,Pittsburgh Steelers,pit,7,Cleveland Browns,cle,21,Cleveland Browns,cle,Pittsburgh Steelers,pit,11,2019
+149,201911170clt,Jacksonville Jaguars,jax,13,Indianapolis Colts,clt,33,Indianapolis Colts,clt,Jacksonville Jaguars,jax,11,2019
+150,201911170car,Atlanta Falcons,atl,29,Carolina Panthers,car,3,Atlanta Falcons,atl,Carolina Panthers,car,11,2019
+151,201911170was,New York Jets,nyj,34,Washington Redskins,was,17,New York Jets,nyj,Washington Redskins,was,11,2019
+152,201911170tam,New Orleans Saints,nor,34,Tampa Bay Buccaneers,tam,17,New Orleans Saints,nor,Tampa Bay Buccaneers,tam,11,2019
+153,201911170rav,Houston Texans,htx,7,Baltimore Ravens,rav,41,Baltimore Ravens,rav,Houston Texans,htx,11,2019
+154,201911170min,Denver Broncos,den,23,Minnesota Vikings,min,27,Minnesota Vikings,min,Denver Broncos,den,11,2019
+155,201911170mia,Buffalo Bills,buf,37,Miami Dolphins,mia,20,Buffalo Bills,buf,Miami Dolphins,mia,11,2019
+156,201911170det,Dallas Cowboys,dal,35,Detroit Lions,det,27,Dallas Cowboys,dal,Detroit Lions,det,11,2019
+157,201911170sfo,Arizona Cardinals,crd,26,San Francisco 49ers,sfo,36,San Francisco 49ers,sfo,Arizona Cardinals,crd,11,2019
+158,201911170rai,Cincinnati Bengals,cin,10,Oakland Raiders,rai,17,Oakland Raiders,rai,Cincinnati Bengals,cin,11,2019
+159,201911170phi,New England Patriots,nwe,17,Philadelphia Eagles,phi,10,New England Patriots,nwe,Philadelphia Eagles,phi,11,2019
+160,201911170ram,Chicago Bears,chi,7,Los Angeles Rams,ram,17,Los Angeles Rams,ram,Chicago Bears,chi,11,2019
+161,201911180sdg,Kansas City Chiefs,kan,24,Los Angeles Chargers,sdg,17,Kansas City Chiefs,kan,Los Angeles Chargers,sdg,11,2019
+162,201911210htx,Indianapolis Colts,clt,17,Houston Texans,htx,20,Houston Texans,htx,Indianapolis Colts,clt,12,2019
+163,201911240buf,Denver Broncos,den,3,Buffalo Bills,buf,20,Buffalo Bills,buf,Denver Broncos,den,12,2019
+164,201911240atl,Tampa Bay Buccaneers,tam,35,Atlanta Falcons,atl,22,Tampa Bay Buccaneers,tam,Atlanta Falcons,atl,12,2019
+165,201911240was,Detroit Lions,det,16,Washington Redskins,was,19,Washington Redskins,was,Detroit Lions,det,12,2019
+166,201911240phi,Seattle Seahawks,sea,17,Philadelphia Eagles,phi,9,Seattle Seahawks,sea,Philadelphia Eagles,phi,12,2019
+167,201911240nyj,Oakland Raiders,rai,3,New York Jets,nyj,34,New York Jets,nyj,Oakland Raiders,rai,12,2019
+168,201911240nor,Carolina Panthers,car,31,New Orleans Saints,nor,34,New Orleans Saints,nor,Carolina Panthers,car,12,2019
+169,201911240cle,Miami Dolphins,mia,24,Cleveland Browns,cle,41,Cleveland Browns,cle,Miami Dolphins,mia,12,2019
+170,201911240cin,Pittsburgh Steelers,pit,16,Cincinnati Bengals,cin,10,Pittsburgh Steelers,pit,Cincinnati Bengals,cin,12,2019
+171,201911240chi,New York Giants,nyg,14,Chicago Bears,chi,19,Chicago Bears,chi,New York Giants,nyg,12,2019
+172,201911240oti,Jacksonville Jaguars,jax,20,Tennessee Titans,oti,42,Tennessee Titans,oti,Jacksonville Jaguars,jax,12,2019
+173,201911240nwe,Dallas Cowboys,dal,9,New England Patriots,nwe,13,New England Patriots,nwe,Dallas Cowboys,dal,12,2019
+174,201911240sfo,Green Bay Packers,gnb,8,San Francisco 49ers,sfo,37,San Francisco 49ers,sfo,Green Bay Packers,gnb,12,2019
+175,201911250ram,Baltimore Ravens,rav,45,Los Angeles Rams,ram,6,Baltimore Ravens,rav,Los Angeles Rams,ram,12,2019
+176,201911280det,Chicago Bears,chi,24,Detroit Lions,det,20,Chicago Bears,chi,Detroit Lions,det,13,2019
+177,201911280dal,Buffalo Bills,buf,26,Dallas Cowboys,dal,15,Buffalo Bills,buf,Dallas Cowboys,dal,13,2019
+178,201911280atl,New Orleans Saints,nor,26,Atlanta Falcons,atl,18,New Orleans Saints,nor,Atlanta Falcons,atl,13,2019
+179,201912010rav,San Francisco 49ers,sfo,17,Baltimore Ravens,rav,20,Baltimore Ravens,rav,San Francisco 49ers,sfo,13,2019
+180,201912010pit,Cleveland Browns,cle,13,Pittsburgh Steelers,pit,20,Pittsburgh Steelers,pit,Cleveland Browns,cle,13,2019
+181,201912010nyg,Green Bay Packers,gnb,31,New York Giants,nyg,13,Green Bay Packers,gnb,New York Giants,nyg,13,2019
+182,201912010mia,Philadelphia Eagles,phi,31,Miami Dolphins,mia,37,Miami Dolphins,mia,Philadelphia Eagles,phi,13,2019
+183,201912010jax,Tampa Bay Buccaneers,tam,28,Jacksonville Jaguars,jax,11,Tampa Bay Buccaneers,tam,Jacksonville Jaguars,jax,13,2019
+184,201912010clt,Tennessee Titans,oti,31,Indianapolis Colts,clt,17,Tennessee Titans,oti,Indianapolis Colts,clt,13,2019
+185,201912010cin,New York Jets,nyj,6,Cincinnati Bengals,cin,22,Cincinnati Bengals,cin,New York Jets,nyj,13,2019
+186,201912010car,Washington Redskins,was,29,Carolina Panthers,car,21,Washington Redskins,was,Carolina Panthers,car,13,2019
+187,201912010crd,Los Angeles Rams,ram,34,Arizona Cardinals,crd,7,Los Angeles Rams,ram,Arizona Cardinals,crd,13,2019
+188,201912010kan,Oakland Raiders,rai,9,Kansas City Chiefs,kan,40,Kansas City Chiefs,kan,Oakland Raiders,rai,13,2019
+189,201912010den,Los Angeles Chargers,sdg,20,Denver Broncos,den,23,Denver Broncos,den,Los Angeles Chargers,sdg,13,2019
+190,201912010htx,New England Patriots,nwe,22,Houston Texans,htx,28,Houston Texans,htx,New England Patriots,nwe,13,2019
+191,201912020sea,Minnesota Vikings,min,30,Seattle Seahawks,sea,37,Seattle Seahawks,sea,Minnesota Vikings,min,13,2019
+192,201912050chi,Dallas Cowboys,dal,24,Chicago Bears,chi,31,Chicago Bears,chi,Dallas Cowboys,dal,14,2019
+193,201912080buf,Baltimore Ravens,rav,24,Buffalo Bills,buf,17,Baltimore Ravens,rav,Buffalo Bills,buf,14,2019
+194,201912080atl,Carolina Panthers,car,20,Atlanta Falcons,atl,40,Atlanta Falcons,atl,Carolina Panthers,car,14,2019
+195,201912080tam,Indianapolis Colts,clt,35,Tampa Bay Buccaneers,tam,38,Tampa Bay Buccaneers,tam,Indianapolis Colts,clt,14,2019
+196,201912080nyj,Miami Dolphins,mia,21,New York Jets,nyj,22,New York Jets,nyj,Miami Dolphins,mia,14,2019
+197,201912080nor,San Francisco 49ers,sfo,48,New Orleans Saints,nor,46,San Francisco 49ers,sfo,New Orleans Saints,nor,14,2019
+198,201912080min,Detroit Lions,det,7,Minnesota Vikings,min,20,Minnesota Vikings,min,Detroit Lions,det,14,2019
+199,201912080htx,Denver Broncos,den,38,Houston Texans,htx,24,Denver Broncos,den,Houston Texans,htx,14,2019
+200,201912080gnb,Washington Redskins,was,15,Green Bay Packers,gnb,20,Green Bay Packers,gnb,Washington Redskins,was,14,2019
+201,201912080cle,Cincinnati Bengals,cin,19,Cleveland Browns,cle,27,Cleveland Browns,cle,Cincinnati Bengals,cin,14,2019
+202,201912080jax,Los Angeles Chargers,sdg,45,Jacksonville Jaguars,jax,10,Los Angeles Chargers,sdg,Jacksonville Jaguars,jax,14,2019
+203,201912080rai,Tennessee Titans,oti,42,Oakland Raiders,rai,21,Tennessee Titans,oti,Oakland Raiders,rai,14,2019
+204,201912080nwe,Kansas City Chiefs,kan,23,New England Patriots,nwe,16,Kansas City Chiefs,kan,New England Patriots,nwe,14,2019
+205,201912080crd,Pittsburgh Steelers,pit,23,Arizona Cardinals,crd,17,Pittsburgh Steelers,pit,Arizona Cardinals,crd,14,2019
+206,201912080ram,Seattle Seahawks,sea,12,Los Angeles Rams,ram,28,Los Angeles Rams,ram,Seattle Seahawks,sea,14,2019
+207,201912090phi,New York Giants,nyg,17,Philadelphia Eagles,phi,23,Philadelphia Eagles,phi,New York Giants,nyg,14,2019
+208,201912120rav,New York Jets,nyj,21,Baltimore Ravens,rav,42,Baltimore Ravens,rav,New York Jets,nyj,15,2019
+209,201912150cin,New England Patriots,nwe,34,Cincinnati Bengals,cin,13,New England Patriots,nwe,Cincinnati Bengals,cin,15,2019
+210,201912150car,Seattle Seahawks,sea,30,Carolina Panthers,car,24,Seattle Seahawks,sea,Carolina Panthers,car,15,2019
+211,201912150was,Philadelphia Eagles,phi,37,Washington Redskins,was,27,Philadelphia Eagles,phi,Washington Redskins,was,15,2019
+212,201912150oti,Houston Texans,htx,24,Tennessee Titans,oti,21,Houston Texans,htx,Tennessee Titans,oti,15,2019
+213,201912150nyg,Miami Dolphins,mia,20,New York Giants,nyg,36,New York Giants,nyg,Miami Dolphins,mia,15,2019
+214,201912150kan,Denver Broncos,den,3,Kansas City Chiefs,kan,23,Kansas City Chiefs,kan,Denver Broncos,den,15,2019
+215,201912150gnb,Chicago Bears,chi,13,Green Bay Packers,gnb,21,Green Bay Packers,gnb,Chicago Bears,chi,15,2019
+216,201912150det,Tampa Bay Buccaneers,tam,38,Detroit Lions,det,17,Tampa Bay Buccaneers,tam,Detroit Lions,det,15,2019
+217,201912150sdg,Minnesota Vikings,min,39,Los Angeles Chargers,sdg,10,Minnesota Vikings,min,Los Angeles Chargers,sdg,15,2019
+218,201912150rai,Jacksonville Jaguars,jax,20,Oakland Raiders,rai,16,Jacksonville Jaguars,jax,Oakland Raiders,rai,15,2019
+219,201912150crd,Cleveland Browns,cle,24,Arizona Cardinals,crd,38,Arizona Cardinals,crd,Cleveland Browns,cle,15,2019
+220,201912150sfo,Atlanta Falcons,atl,29,San Francisco 49ers,sfo,22,Atlanta Falcons,atl,San Francisco 49ers,sfo,15,2019
+221,201912150dal,Los Angeles Rams,ram,21,Dallas Cowboys,dal,44,Dallas Cowboys,dal,Los Angeles Rams,ram,15,2019
+222,201912150pit,Buffalo Bills,buf,17,Pittsburgh Steelers,pit,10,Buffalo Bills,buf,Pittsburgh Steelers,pit,15,2019
+223,201912160nor,Indianapolis Colts,clt,7,New Orleans Saints,nor,34,New Orleans Saints,nor,Indianapolis Colts,clt,15,2019
+224,201912210tam,Houston Texans,htx,23,Tampa Bay Buccaneers,tam,20,Houston Texans,htx,Tampa Bay Buccaneers,tam,16,2019
+225,201912210nwe,Buffalo Bills,buf,17,New England Patriots,nwe,24,New England Patriots,nwe,Buffalo Bills,buf,16,2019
+226,201912210sfo,Los Angeles Rams,ram,31,San Francisco 49ers,sfo,34,San Francisco 49ers,sfo,Los Angeles Rams,ram,16,2019
+227,201912220was,New York Giants,nyg,41,Washington Redskins,was,35,New York Giants,nyg,Washington Redskins,was,16,2019
+228,201912220oti,New Orleans Saints,nor,38,Tennessee Titans,oti,28,New Orleans Saints,nor,Tennessee Titans,oti,16,2019
+229,201912220nyj,Pittsburgh Steelers,pit,10,New York Jets,nyj,16,New York Jets,nyj,Pittsburgh Steelers,pit,16,2019
+230,201912220mia,Cincinnati Bengals,cin,35,Miami Dolphins,mia,38,Miami Dolphins,mia,Cincinnati Bengals,cin,16,2019
+231,201912220clt,Carolina Panthers,car,6,Indianapolis Colts,clt,38,Indianapolis Colts,clt,Carolina Panthers,car,16,2019
+232,201912220cle,Baltimore Ravens,rav,31,Cleveland Browns,cle,15,Baltimore Ravens,rav,Cleveland Browns,cle,16,2019
+233,201912220atl,Jacksonville Jaguars,jax,12,Atlanta Falcons,atl,24,Atlanta Falcons,atl,Jacksonville Jaguars,jax,16,2019
+234,201912220sdg,Oakland Raiders,rai,24,Los Angeles Chargers,sdg,17,Oakland Raiders,rai,Los Angeles Chargers,sdg,16,2019
+235,201912220den,Detroit Lions,det,17,Denver Broncos,den,27,Denver Broncos,den,Detroit Lions,det,16,2019
+236,201912220sea,Arizona Cardinals,crd,27,Seattle Seahawks,sea,13,Arizona Cardinals,crd,Seattle Seahawks,sea,16,2019
+237,201912220phi,Dallas Cowboys,dal,9,Philadelphia Eagles,phi,17,Philadelphia Eagles,phi,Dallas Cowboys,dal,16,2019
+238,201912220chi,Kansas City Chiefs,kan,26,Chicago Bears,chi,3,Kansas City Chiefs,kan,Chicago Bears,chi,16,2019
+239,201912230min,Green Bay Packers,gnb,23,Minnesota Vikings,min,10,Green Bay Packers,gnb,Minnesota Vikings,min,16,2019
+240,201912290cin,Cleveland Browns,cle,23,Cincinnati Bengals,cin,33,Cincinnati Bengals,cin,Cleveland Browns,cle,17,2019
+241,201912290car,New Orleans Saints,nor,42,Carolina Panthers,car,10,New Orleans Saints,nor,Carolina Panthers,car,17,2019
+242,201912290buf,New York Jets,nyj,13,Buffalo Bills,buf,6,New York Jets,nyj,Buffalo Bills,buf,17,2019
+243,201912290tam,Atlanta Falcons,atl,28,Tampa Bay Buccaneers,tam,22,Atlanta Falcons,atl,Tampa Bay Buccaneers,tam,17,2019
+244,201912290nwe,Miami Dolphins,mia,27,New England Patriots,nwe,24,Miami Dolphins,mia,New England Patriots,nwe,17,2019
+245,201912290min,Chicago Bears,chi,21,Minnesota Vikings,min,19,Chicago Bears,chi,Minnesota Vikings,min,17,2019
+246,201912290kan,Los Angeles Chargers,sdg,21,Kansas City Chiefs,kan,31,Kansas City Chiefs,kan,Los Angeles Chargers,sdg,17,2019
+247,201912290det,Green Bay Packers,gnb,23,Detroit Lions,det,20,Green Bay Packers,gnb,Detroit Lions,det,17,2019
+248,201912290rav,Pittsburgh Steelers,pit,10,Baltimore Ravens,rav,28,Baltimore Ravens,rav,Pittsburgh Steelers,pit,17,2019
+249,201912290ram,Arizona Cardinals,crd,24,Los Angeles Rams,ram,31,Los Angeles Rams,ram,Arizona Cardinals,crd,17,2019
+250,201912290nyg,Philadelphia Eagles,phi,34,New York Giants,nyg,17,Philadelphia Eagles,phi,New York Giants,nyg,17,2019
+251,201912290jax,Indianapolis Colts,clt,20,Jacksonville Jaguars,jax,38,Jacksonville Jaguars,jax,Indianapolis Colts,clt,17,2019
+252,201912290htx,Tennessee Titans,oti,35,Houston Texans,htx,14,Tennessee Titans,oti,Houston Texans,htx,17,2019
+253,201912290den,Oakland Raiders,rai,15,Denver Broncos,den,16,Denver Broncos,den,Oakland Raiders,rai,17,2019
+254,201912290dal,Washington Redskins,was,16,Dallas Cowboys,dal,47,Dallas Cowboys,dal,Washington Redskins,was,17,2019
+255,201912290sea,San Francisco 49ers,sfo,26,Seattle Seahawks,sea,21,San Francisco 49ers,sfo,Seattle Seahawks,sea,17,2019
+256,202001040htx,Buffalo Bills,buf,19,Houston Texans,htx,22,Houston Texans,htx,Buffalo Bills,buf,18,2019
+257,202001040nwe,Tennessee Titans,oti,20,New England Patriots,nwe,13,Tennessee Titans,oti,New England Patriots,nwe,18,2019
+258,202001050nor,Minnesota Vikings,min,26,New Orleans Saints,nor,20,Minnesota Vikings,min,New Orleans Saints,nor,18,2019
+259,202001050phi,Seattle Seahawks,sea,17,Philadelphia Eagles,phi,9,Seattle Seahawks,sea,Philadelphia Eagles,phi,18,2019
+260,202001110sfo,Minnesota Vikings,min,10,San Francisco 49ers,sfo,27,San Francisco 49ers,sfo,Minnesota Vikings,min,19,2019
+261,202001110rav,Tennessee Titans,oti,28,Baltimore Ravens,rav,12,Tennessee Titans,oti,Baltimore Ravens,rav,19,2019
+262,202001120kan,Houston Texans,htx,31,Kansas City Chiefs,kan,51,Kansas City Chiefs,kan,Houston Texans,htx,19,2019
+263,202001120gnb,Seattle Seahawks,sea,23,Green Bay Packers,gnb,28,Green Bay Packers,gnb,Seattle Seahawks,sea,19,2019
+264,202001190kan,Tennessee Titans,oti,24,Kansas City Chiefs,kan,35,Kansas City Chiefs,kan,Tennessee Titans,oti,20,2019
+265,202001190sfo,Green Bay Packers,gnb,20,San Francisco 49ers,sfo,37,San Francisco 49ers,sfo,Green Bay Packers,gnb,20,2019
+266,202002020kan,San Francisco 49ers,sfo,20,Kansas City Chiefs,kan,31,Kansas City Chiefs,kan,San Francisco 49ers,sfo,21,2019
+267,202009100kan,Houston Texans,htx,20,Kansas City Chiefs,kan,34,Kansas City Chiefs,kan,Houston Texans,htx,1,2020
+268,202009130buf,New York Jets,nyj,17,Buffalo Bills,buf,27,Buffalo Bills,buf,New York Jets,nyj,1,2020
+269,202009130atl,Seattle Seahawks,sea,38,Atlanta Falcons,atl,25,Seattle Seahawks,sea,Atlanta Falcons,atl,1,2020
+270,202009130was,Philadelphia Eagles,phi,17,Washington Football Team,was,27,Washington Football Team,was,Philadelphia Eagles,phi,1,2020
+271,202009130rav,Cleveland Browns,cle,6,Baltimore Ravens,rav,38,Baltimore Ravens,rav,Cleveland Browns,cle,1,2020
+272,202009130nwe,Miami Dolphins,mia,11,New England Patriots,nwe,21,New England Patriots,nwe,Miami Dolphins,mia,1,2020
+273,202009130min,Green Bay Packers,gnb,43,Minnesota Vikings,min,34,Green Bay Packers,gnb,Minnesota Vikings,min,1,2020
+274,202009130jax,Indianapolis Colts,clt,20,Jacksonville Jaguars,jax,27,Jacksonville Jaguars,jax,Indianapolis Colts,clt,1,2020
+275,202009130det,Chicago Bears,chi,27,Detroit Lions,det,23,Chicago Bears,chi,Detroit Lions,det,1,2020
+276,202009130car,Las Vegas Raiders,rai,34,Carolina Panthers,car,30,Las Vegas Raiders,rai,Carolina Panthers,car,1,2020
+277,202009130cin,Los Angeles Chargers,sdg,16,Cincinnati Bengals,cin,13,Los Angeles Chargers,sdg,Cincinnati Bengals,cin,1,2020
+278,202009130sfo,Arizona Cardinals,crd,24,San Francisco 49ers,sfo,20,Arizona Cardinals,crd,San Francisco 49ers,sfo,1,2020
+279,202009130nor,Tampa Bay Buccaneers,tam,23,New Orleans Saints,nor,34,New Orleans Saints,nor,Tampa Bay Buccaneers,tam,1,2020
+280,202009130ram,Dallas Cowboys,dal,17,Los Angeles Rams,ram,20,Los Angeles Rams,ram,Dallas Cowboys,dal,1,2020
+281,202009140nyg,Pittsburgh Steelers,pit,26,New York Giants,nyg,16,Pittsburgh Steelers,pit,New York Giants,nyg,1,2020
+282,202009140den,Tennessee Titans,oti,16,Denver Broncos,den,14,Tennessee Titans,oti,Denver Broncos,den,1,2020
+283,202009170cle,Cincinnati Bengals,cin,30,Cleveland Browns,cle,35,Cleveland Browns,cle,Cincinnati Bengals,cin,2,2020
+284,202009200clt,Minnesota Vikings,min,11,Indianapolis Colts,clt,28,Indianapolis Colts,clt,Minnesota Vikings,min,2,2020
+285,202009200chi,New York Giants,nyg,13,Chicago Bears,chi,17,Chicago Bears,chi,New York Giants,nyg,2,2020
+286,202009200tam,Carolina Panthers,car,17,Tampa Bay Buccaneers,tam,31,Tampa Bay Buccaneers,tam,Carolina Panthers,car,2,2020
+287,202009200pit,Denver Broncos,den,21,Pittsburgh Steelers,pit,26,Pittsburgh Steelers,pit,Denver Broncos,den,2,2020
+288,202009200phi,Los Angeles Rams,ram,37,Philadelphia Eagles,phi,19,Los Angeles Rams,ram,Philadelphia Eagles,phi,2,2020
+289,202009200oti,Jacksonville Jaguars,jax,30,Tennessee Titans,oti,33,Tennessee Titans,oti,Jacksonville Jaguars,jax,2,2020
+290,202009200nyj,San Francisco 49ers,sfo,31,New York Jets,nyj,13,San Francisco 49ers,sfo,New York Jets,nyj,2,2020
+291,202009200mia,Buffalo Bills,buf,31,Miami Dolphins,mia,28,Buffalo Bills,buf,Miami Dolphins,mia,2,2020
+292,202009200gnb,Detroit Lions,det,21,Green Bay Packers,gnb,42,Green Bay Packers,gnb,Detroit Lions,det,2,2020
+293,202009200dal,Atlanta Falcons,atl,39,Dallas Cowboys,dal,40,Dallas Cowboys,dal,Atlanta Falcons,atl,2,2020
+294,202009200crd,Washington Football Team,was,15,Arizona Cardinals,crd,30,Arizona Cardinals,crd,Washington Football Team,was,2,2020
+295,202009200sdg,Kansas City Chiefs,kan,23,Los Angeles Chargers,sdg,20,Kansas City Chiefs,kan,Los Angeles Chargers,sdg,2,2020
+296,202009200htx,Baltimore Ravens,rav,33,Houston Texans,htx,16,Baltimore Ravens,rav,Houston Texans,htx,2,2020
+297,202009200sea,New England Patriots,nwe,30,Seattle Seahawks,sea,35,Seattle Seahawks,sea,New England Patriots,nwe,2,2020
+298,202009210rai,New Orleans Saints,nor,24,Las Vegas Raiders,rai,34,Las Vegas Raiders,rai,New Orleans Saints,nor,2,2020
+299,202009240jax,Miami Dolphins,mia,31,Jacksonville Jaguars,jax,13,Miami Dolphins,mia,Jacksonville Jaguars,jax,3,2020
+300,202009270buf,Los Angeles Rams,ram,32,Buffalo Bills,buf,35,Buffalo Bills,buf,Los Angeles Rams,ram,3,2020
+301,202009270atl,Chicago Bears,chi,30,Atlanta Falcons,atl,26,Chicago Bears,chi,Atlanta Falcons,atl,3,2020
+302,202009270pit,Houston Texans,htx,21,Pittsburgh Steelers,pit,28,Pittsburgh Steelers,pit,Houston Texans,htx,3,2020
+303,202009270phi,Cincinnati Bengals,cin,23,Philadelphia Eagles,phi,23,,,,,3,2020
+304,202009270nyg,San Francisco 49ers,sfo,36,New York Giants,nyg,9,San Francisco 49ers,sfo,New York Giants,nyg,3,2020
+305,202009270nwe,Las Vegas Raiders,rai,20,New England Patriots,nwe,36,New England Patriots,nwe,Las Vegas Raiders,rai,3,2020
+306,202009270min,Tennessee Titans,oti,31,Minnesota Vikings,min,30,Tennessee Titans,oti,Minnesota Vikings,min,3,2020
+307,202009270cle,Washington Football Team,was,20,Cleveland Browns,cle,34,Cleveland Browns,cle,Washington Football Team,was,3,2020
+308,202009270sdg,Carolina Panthers,car,21,Los Angeles Chargers,sdg,16,Carolina Panthers,car,Los Angeles Chargers,sdg,3,2020
+309,202009270clt,New York Jets,nyj,7,Indianapolis Colts,clt,36,Indianapolis Colts,clt,New York Jets,nyj,3,2020
+310,202009270sea,Dallas Cowboys,dal,31,Seattle Seahawks,sea,38,Seattle Seahawks,sea,Dallas Cowboys,dal,3,2020
+311,202009270den,Tampa Bay Buccaneers,tam,28,Denver Broncos,den,10,Tampa Bay Buccaneers,tam,Denver Broncos,den,3,2020
+312,202009270crd,Detroit Lions,det,26,Arizona Cardinals,crd,23,Detroit Lions,det,Arizona Cardinals,crd,3,2020
+313,202009270nor,Green Bay Packers,gnb,37,New Orleans Saints,nor,30,Green Bay Packers,gnb,New Orleans Saints,nor,3,2020
+314,202009280rav,Kansas City Chiefs,kan,34,Baltimore Ravens,rav,20,Kansas City Chiefs,kan,Baltimore Ravens,rav,3,2020
+315,202010010nyj,Denver Broncos,den,37,New York Jets,nyj,28,Denver Broncos,den,New York Jets,nyj,4,2020
+316,202010040chi,Indianapolis Colts,clt,19,Chicago Bears,chi,11,Indianapolis Colts,clt,Chicago Bears,chi,4,2020
+317,202010040car,Arizona Cardinals,crd,21,Carolina Panthers,car,31,Carolina Panthers,car,Arizona Cardinals,crd,4,2020
+318,202010040was,Baltimore Ravens,rav,31,Washington Football Team,was,17,Baltimore Ravens,rav,Washington Football Team,was,4,2020
+319,202010040tam,Los Angeles Chargers,sdg,31,Tampa Bay Buccaneers,tam,38,Tampa Bay Buccaneers,tam,Los Angeles Chargers,sdg,4,2020
+320,202010040mia,Seattle Seahawks,sea,31,Miami Dolphins,mia,23,Seattle Seahawks,sea,Miami Dolphins,mia,4,2020
+321,202010040htx,Minnesota Vikings,min,31,Houston Texans,htx,23,Minnesota Vikings,min,Houston Texans,htx,4,2020
+322,202010040det,New Orleans Saints,nor,35,Detroit Lions,det,29,New Orleans Saints,nor,Detroit Lions,det,4,2020
+323,202010040dal,Cleveland Browns,cle,49,Dallas Cowboys,dal,38,Cleveland Browns,cle,Dallas Cowboys,dal,4,2020
+324,202010040cin,Jacksonville Jaguars,jax,25,Cincinnati Bengals,cin,33,Cincinnati Bengals,cin,Jacksonville Jaguars,jax,4,2020
+325,202010040ram,New York Giants,nyg,9,Los Angeles Rams,ram,17,Los Angeles Rams,ram,New York Giants,nyg,4,2020
+326,202010040rai,Buffalo Bills,buf,30,Las Vegas Raiders,rai,23,Buffalo Bills,buf,Las Vegas Raiders,rai,4,2020
+327,202010040sfo,Philadelphia Eagles,phi,25,San Francisco 49ers,sfo,20,Philadelphia Eagles,phi,San Francisco 49ers,sfo,4,2020
+328,202010050kan,New England Patriots,nwe,10,Kansas City Chiefs,kan,26,Kansas City Chiefs,kan,New England Patriots,nwe,4,2020
+329,202010050gnb,Atlanta Falcons,atl,16,Green Bay Packers,gnb,30,Green Bay Packers,gnb,Atlanta Falcons,atl,4,2020
+330,202010080chi,Tampa Bay Buccaneers,tam,19,Chicago Bears,chi,20,Chicago Bears,chi,Tampa Bay Buccaneers,tam,5,2020
+331,202010110atl,Carolina Panthers,car,23,Atlanta Falcons,atl,16,Carolina Panthers,car,Atlanta Falcons,atl,5,2020
+332,202010110was,Los Angeles Rams,ram,30,Washington Football Team,was,10,Los Angeles Rams,ram,Washington Football Team,was,5,2020
+333,202010110rav,Cincinnati Bengals,cin,3,Baltimore Ravens,rav,27,Baltimore Ravens,rav,Cincinnati Bengals,cin,5,2020
+334,202010110pit,Philadelphia Eagles,phi,29,Pittsburgh Steelers,pit,38,Pittsburgh Steelers,pit,Philadelphia Eagles,phi,5,2020
+335,202010110nyj,Arizona Cardinals,crd,30,New York Jets,nyj,10,Arizona Cardinals,crd,New York Jets,nyj,5,2020
+336,202010110kan,Las Vegas Raiders,rai,40,Kansas City Chiefs,kan,32,Las Vegas Raiders,rai,Kansas City Chiefs,kan,5,2020
+337,202010110htx,Jacksonville Jaguars,jax,14,Houston Texans,htx,30,Houston Texans,htx,Jacksonville Jaguars,jax,5,2020
+338,202010110sfo,Miami Dolphins,mia,43,San Francisco 49ers,sfo,17,Miami Dolphins,mia,San Francisco 49ers,sfo,5,2020
+339,202010110cle,Indianapolis Colts,clt,23,Cleveland Browns,cle,32,Cleveland Browns,cle,Indianapolis Colts,clt,5,2020
+340,202010110dal,New York Giants,nyg,34,Dallas Cowboys,dal,37,Dallas Cowboys,dal,New York Giants,nyg,5,2020
+341,202010110sea,Minnesota Vikings,min,26,Seattle Seahawks,sea,27,Seattle Seahawks,sea,Minnesota Vikings,min,5,2020
+342,202010120nor,Los Angeles Chargers,sdg,27,New Orleans Saints,nor,30,New Orleans Saints,nor,Los Angeles Chargers,sdg,5,2020
+343,202010130oti,Buffalo Bills,buf,16,Tennessee Titans,oti,42,Tennessee Titans,oti,Buffalo Bills,buf,5,2020
+344,202010180jax,Detroit Lions,det,34,Jacksonville Jaguars,jax,16,Detroit Lions,det,Jacksonville Jaguars,jax,6,2020
+345,202010180clt,Cincinnati Bengals,cin,27,Indianapolis Colts,clt,31,Indianapolis Colts,clt,Cincinnati Bengals,cin,6,2020
+346,202010180car,Chicago Bears,chi,23,Carolina Panthers,car,16,Chicago Bears,chi,Carolina Panthers,car,6,2020
+347,202010180pit,Cleveland Browns,cle,7,Pittsburgh Steelers,pit,38,Pittsburgh Steelers,pit,Cleveland Browns,cle,6,2020
+348,202010180phi,Baltimore Ravens,rav,30,Philadelphia Eagles,phi,28,Baltimore Ravens,rav,Philadelphia Eagles,phi,6,2020
+349,202010180oti,Houston Texans,htx,36,Tennessee Titans,oti,42,Tennessee Titans,oti,Houston Texans,htx,6,2020
+350,202010180nyg,Washington Football Team,was,19,New York Giants,nyg,20,New York Giants,nyg,Washington Football Team,was,6,2020
+351,202010180nwe,Denver Broncos,den,18,New England Patriots,nwe,12,Denver Broncos,den,New England Patriots,nwe,6,2020
+352,202010180min,Atlanta Falcons,atl,40,Minnesota Vikings,min,23,Atlanta Falcons,atl,Minnesota Vikings,min,6,2020
+353,202010180mia,New York Jets,nyj,0,Miami Dolphins,mia,24,Miami Dolphins,mia,New York Jets,nyj,6,2020
+354,202010180tam,Green Bay Packers,gnb,10,Tampa Bay Buccaneers,tam,38,Tampa Bay Buccaneers,tam,Green Bay Packers,gnb,6,2020
+355,202010180sfo,Los Angeles Rams,ram,16,San Francisco 49ers,sfo,24,San Francisco 49ers,sfo,Los Angeles Rams,ram,6,2020
+356,202010190buf,Kansas City Chiefs,kan,26,Buffalo Bills,buf,17,Kansas City Chiefs,kan,Buffalo Bills,buf,6,2020
+357,202010190dal,Arizona Cardinals,crd,38,Dallas Cowboys,dal,10,Arizona Cardinals,crd,Dallas Cowboys,dal,6,2020
+358,202010220phi,New York Giants,nyg,21,Philadelphia Eagles,phi,22,Philadelphia Eagles,phi,New York Giants,nyg,7,2020
+359,202010250cin,Cleveland Browns,cle,37,Cincinnati Bengals,cin,34,Cleveland Browns,cle,Cincinnati Bengals,cin,7,2020
+360,202010250atl,Detroit Lions,det,23,Atlanta Falcons,atl,22,Detroit Lions,det,Atlanta Falcons,atl,7,2020
+361,202010250was,Dallas Cowboys,dal,3,Washington Football Team,was,25,Washington Football Team,was,Dallas Cowboys,dal,7,2020
+362,202010250oti,Pittsburgh Steelers,pit,27,Tennessee Titans,oti,24,Pittsburgh Steelers,pit,Tennessee Titans,oti,7,2020
+363,202010250nyj,Buffalo Bills,buf,18,New York Jets,nyj,10,Buffalo Bills,buf,New York Jets,nyj,7,2020
+364,202010250nor,Carolina Panthers,car,24,New Orleans Saints,nor,27,New Orleans Saints,nor,Carolina Panthers,car,7,2020
+365,202010250htx,Green Bay Packers,gnb,35,Houston Texans,htx,20,Green Bay Packers,gnb,Houston Texans,htx,7,2020
+366,202010250rai,Tampa Bay Buccaneers,tam,45,Las Vegas Raiders,rai,20,Tampa Bay Buccaneers,tam,Las Vegas Raiders,rai,7,2020
+367,202010250sdg,Jacksonville Jaguars,jax,29,Los Angeles Chargers,sdg,39,Los Angeles Chargers,sdg,Jacksonville Jaguars,jax,7,2020
+368,202010250nwe,San Francisco 49ers,sfo,33,New England Patriots,nwe,6,San Francisco 49ers,sfo,New England Patriots,nwe,7,2020
+369,202010250den,Kansas City Chiefs,kan,43,Denver Broncos,den,16,Kansas City Chiefs,kan,Denver Broncos,den,7,2020
+370,202010250crd,Seattle Seahawks,sea,34,Arizona Cardinals,crd,37,Arizona Cardinals,crd,Seattle Seahawks,sea,7,2020
+371,202010260ram,Chicago Bears,chi,10,Los Angeles Rams,ram,24,Los Angeles Rams,ram,Chicago Bears,chi,7,2020
+372,202010290car,Atlanta Falcons,atl,25,Carolina Panthers,car,17,Atlanta Falcons,atl,Carolina Panthers,car,8,2020
+373,202011010buf,New England Patriots,nwe,21,Buffalo Bills,buf,24,Buffalo Bills,buf,New England Patriots,nwe,8,2020
+374,202011010rav,Pittsburgh Steelers,pit,28,Baltimore Ravens,rav,24,Pittsburgh Steelers,pit,Baltimore Ravens,rav,8,2020
+375,202011010mia,Los Angeles Rams,ram,17,Miami Dolphins,mia,28,Miami Dolphins,mia,Los Angeles Rams,ram,8,2020
+376,202011010kan,New York Jets,nyj,9,Kansas City Chiefs,kan,35,Kansas City Chiefs,kan,New York Jets,nyj,8,2020
+377,202011010gnb,Minnesota Vikings,min,28,Green Bay Packers,gnb,22,Minnesota Vikings,min,Green Bay Packers,gnb,8,2020
+378,202011010det,Indianapolis Colts,clt,41,Detroit Lions,det,21,Indianapolis Colts,clt,Detroit Lions,det,8,2020
+379,202011010cle,Las Vegas Raiders,rai,16,Cleveland Browns,cle,6,Las Vegas Raiders,rai,Cleveland Browns,cle,8,2020
+380,202011010cin,Tennessee Titans,oti,20,Cincinnati Bengals,cin,31,Cincinnati Bengals,cin,Tennessee Titans,oti,8,2020
+381,202011010den,Los Angeles Chargers,sdg,30,Denver Broncos,den,31,Denver Broncos,den,Los Angeles Chargers,sdg,8,2020
+382,202011010chi,New Orleans Saints,nor,26,Chicago Bears,chi,23,New Orleans Saints,nor,Chicago Bears,chi,8,2020
+383,202011010sea,San Francisco 49ers,sfo,27,Seattle Seahawks,sea,37,Seattle Seahawks,sea,San Francisco 49ers,sfo,8,2020
+384,202011010phi,Dallas Cowboys,dal,9,Philadelphia Eagles,phi,23,Philadelphia Eagles,phi,Dallas Cowboys,dal,8,2020
+385,202011020nyg,Tampa Bay Buccaneers,tam,25,New York Giants,nyg,23,Tampa Bay Buccaneers,tam,New York Giants,nyg,8,2020
+386,202011050sfo,Green Bay Packers,gnb,34,San Francisco 49ers,sfo,17,Green Bay Packers,gnb,San Francisco 49ers,sfo,9,2020
+387,202011080buf,Seattle Seahawks,sea,34,Buffalo Bills,buf,44,Buffalo Bills,buf,Seattle Seahawks,sea,9,2020
+388,202011080atl,Denver Broncos,den,27,Atlanta Falcons,atl,34,Atlanta Falcons,atl,Denver Broncos,den,9,2020
+389,202011080was,New York Giants,nyg,23,Washington Football Team,was,20,New York Giants,nyg,Washington Football Team,was,9,2020
+390,202011080oti,Chicago Bears,chi,17,Tennessee Titans,oti,24,Tennessee Titans,oti,Chicago Bears,chi,9,2020
+391,202011080min,Detroit Lions,det,20,Minnesota Vikings,min,34,Minnesota Vikings,min,Detroit Lions,det,9,2020
+392,202011080kan,Carolina Panthers,car,31,Kansas City Chiefs,kan,33,Kansas City Chiefs,kan,Carolina Panthers,car,9,2020
+393,202011080jax,Houston Texans,htx,27,Jacksonville Jaguars,jax,25,Houston Texans,htx,Jacksonville Jaguars,jax,9,2020
+394,202011080clt,Baltimore Ravens,rav,24,Indianapolis Colts,clt,10,Baltimore Ravens,rav,Indianapolis Colts,clt,9,2020
+395,202011080sdg,Las Vegas Raiders,rai,31,Los Angeles Chargers,sdg,26,Las Vegas Raiders,rai,Los Angeles Chargers,sdg,9,2020
+396,202011080dal,Pittsburgh Steelers,pit,24,Dallas Cowboys,dal,19,Pittsburgh Steelers,pit,Dallas Cowboys,dal,9,2020
+397,202011080crd,Miami Dolphins,mia,34,Arizona Cardinals,crd,31,Miami Dolphins,mia,Arizona Cardinals,crd,9,2020
+398,202011080tam,New Orleans Saints,nor,38,Tampa Bay Buccaneers,tam,3,New Orleans Saints,nor,Tampa Bay Buccaneers,tam,9,2020
+399,202011090nyj,New England Patriots,nwe,30,New York Jets,nyj,27,New England Patriots,nwe,New York Jets,nyj,9,2020
+400,202011120oti,Indianapolis Colts,clt,34,Tennessee Titans,oti,17,Indianapolis Colts,clt,Tennessee Titans,oti,10,2020
+401,202011150cle,Houston Texans,htx,7,Cleveland Browns,cle,10,Cleveland Browns,cle,Houston Texans,htx,10,2020
+402,202011150car,Tampa Bay Buccaneers,tam,46,Carolina Panthers,car,23,Tampa Bay Buccaneers,tam,Carolina Panthers,car,10,2020
+403,202011150nyg,Philadelphia Eagles,phi,17,New York Giants,nyg,27,New York Giants,nyg,Philadelphia Eagles,phi,10,2020
+404,202011150gnb,Jacksonville Jaguars,jax,20,Green Bay Packers,gnb,24,Green Bay Packers,gnb,Jacksonville Jaguars,jax,10,2020
+405,202011150det,Washington Football Team,was,27,Detroit Lions,det,30,Detroit Lions,det,Washington Football Team,was,10,2020
+406,202011150rai,Denver Broncos,den,12,Las Vegas Raiders,rai,37,Las Vegas Raiders,rai,Denver Broncos,den,10,2020
+407,202011150mia,Los Angeles Chargers,sdg,21,Miami Dolphins,mia,29,Miami Dolphins,mia,Los Angeles Chargers,sdg,10,2020
+408,202011150crd,Buffalo Bills,buf,30,Arizona Cardinals,crd,32,Arizona Cardinals,crd,Buffalo Bills,buf,10,2020
+409,202011150ram,Seattle Seahawks,sea,16,Los Angeles Rams,ram,23,Los Angeles Rams,ram,Seattle Seahawks,sea,10,2020
+410,202011150pit,Cincinnati Bengals,cin,10,Pittsburgh Steelers,pit,36,Pittsburgh Steelers,pit,Cincinnati Bengals,cin,10,2020
+411,202011150nor,San Francisco 49ers,sfo,13,New Orleans Saints,nor,27,New Orleans Saints,nor,San Francisco 49ers,sfo,10,2020
+412,202011150nwe,Baltimore Ravens,rav,17,New England Patriots,nwe,23,New England Patriots,nwe,Baltimore Ravens,rav,10,2020
+413,202011160chi,Minnesota Vikings,min,19,Chicago Bears,chi,13,Minnesota Vikings,min,Chicago Bears,chi,10,2020
+414,202011190sea,Arizona Cardinals,crd,21,Seattle Seahawks,sea,28,Seattle Seahawks,sea,Arizona Cardinals,crd,11,2020
+415,202011220cle,Philadelphia Eagles,phi,17,Cleveland Browns,cle,22,Cleveland Browns,cle,Philadelphia Eagles,phi,11,2020
+416,202011220car,Detroit Lions,det,0,Carolina Panthers,car,20,Carolina Panthers,car,Detroit Lions,det,11,2020
+417,202011220was,Cincinnati Bengals,cin,9,Washington Football Team,was,20,Washington Football Team,was,Cincinnati Bengals,cin,11,2020
+418,202011220rav,Tennessee Titans,oti,30,Baltimore Ravens,rav,24,Tennessee Titans,oti,Baltimore Ravens,rav,11,2020
+419,202011220nor,Atlanta Falcons,atl,9,New Orleans Saints,nor,24,New Orleans Saints,nor,Atlanta Falcons,atl,11,2020
+420,202011220jax,Pittsburgh Steelers,pit,27,Jacksonville Jaguars,jax,3,Pittsburgh Steelers,pit,Jacksonville Jaguars,jax,11,2020
+421,202011220htx,New England Patriots,nwe,20,Houston Texans,htx,27,Houston Texans,htx,New England Patriots,nwe,11,2020
+422,202011220sdg,New York Jets,nyj,28,Los Angeles Chargers,sdg,34,Los Angeles Chargers,sdg,New York Jets,nyj,11,2020
+423,202011220den,Miami Dolphins,mia,13,Denver Broncos,den,20,Denver Broncos,den,Miami Dolphins,mia,11,2020
+424,202011220min,Dallas Cowboys,dal,31,Minnesota Vikings,min,28,Dallas Cowboys,dal,Minnesota Vikings,min,11,2020
+425,202011220clt,Green Bay Packers,gnb,31,Indianapolis Colts,clt,34,Indianapolis Colts,clt,Green Bay Packers,gnb,11,2020
+426,202011220rai,Kansas City Chiefs,kan,35,Las Vegas Raiders,rai,31,Kansas City Chiefs,kan,Las Vegas Raiders,rai,11,2020
+427,202011230tam,Los Angeles Rams,ram,27,Tampa Bay Buccaneers,tam,24,Los Angeles Rams,ram,Tampa Bay Buccaneers,tam,11,2020
+428,202011260det,Houston Texans,htx,41,Detroit Lions,det,25,Houston Texans,htx,Detroit Lions,det,12,2020
+429,202011260dal,Washington Football Team,was,41,Dallas Cowboys,dal,16,Washington Football Team,was,Dallas Cowboys,dal,12,2020
+430,202011290atl,Las Vegas Raiders,rai,6,Atlanta Falcons,atl,43,Atlanta Falcons,atl,Las Vegas Raiders,rai,12,2020
+431,202011290nyj,Miami Dolphins,mia,20,New York Jets,nyj,3,Miami Dolphins,mia,New York Jets,nyj,12,2020
+432,202011290nwe,Arizona Cardinals,crd,17,New England Patriots,nwe,20,New England Patriots,nwe,Arizona Cardinals,crd,12,2020
+433,202011290min,Carolina Panthers,car,27,Minnesota Vikings,min,28,Minnesota Vikings,min,Carolina Panthers,car,12,2020
+434,202011290jax,Cleveland Browns,cle,27,Jacksonville Jaguars,jax,25,Cleveland Browns,cle,Jacksonville Jaguars,jax,12,2020
+435,202011290clt,Tennessee Titans,oti,45,Indianapolis Colts,clt,26,Tennessee Titans,oti,Indianapolis Colts,clt,12,2020
+436,202011290cin,New York Giants,nyg,19,Cincinnati Bengals,cin,17,New York Giants,nyg,Cincinnati Bengals,cin,12,2020
+437,202011290buf,Los Angeles Chargers,sdg,17,Buffalo Bills,buf,27,Buffalo Bills,buf,Los Angeles Chargers,sdg,12,2020
+438,202011290ram,San Francisco 49ers,sfo,23,Los Angeles Rams,ram,20,San Francisco 49ers,sfo,Los Angeles Rams,ram,12,2020
+439,202011290den,New Orleans Saints,nor,31,Denver Broncos,den,3,New Orleans Saints,nor,Denver Broncos,den,12,2020
+440,202011290tam,Kansas City Chiefs,kan,27,Tampa Bay Buccaneers,tam,24,Kansas City Chiefs,kan,Tampa Bay Buccaneers,tam,12,2020
+441,202011290gnb,Chicago Bears,chi,25,Green Bay Packers,gnb,41,Green Bay Packers,gnb,Chicago Bears,chi,12,2020
+442,202011300phi,Seattle Seahawks,sea,23,Philadelphia Eagles,phi,17,Seattle Seahawks,sea,Philadelphia Eagles,phi,12,2020
+443,202012020pit,Baltimore Ravens,rav,14,Pittsburgh Steelers,pit,19,Pittsburgh Steelers,pit,Baltimore Ravens,rav,12,2020
+444,202012060chi,Detroit Lions,det,34,Chicago Bears,chi,30,Detroit Lions,det,Chicago Bears,chi,13,2020
+445,202012060atl,New Orleans Saints,nor,21,Atlanta Falcons,atl,16,New Orleans Saints,nor,Atlanta Falcons,atl,13,2020
+446,202012060oti,Cleveland Browns,cle,41,Tennessee Titans,oti,35,Cleveland Browns,cle,Tennessee Titans,oti,13,2020
+447,202012060nyj,Las Vegas Raiders,rai,31,New York Jets,nyj,28,Las Vegas Raiders,rai,New York Jets,nyj,13,2020
+448,202012060min,Jacksonville Jaguars,jax,24,Minnesota Vikings,min,27,Minnesota Vikings,min,Jacksonville Jaguars,jax,13,2020
+449,202012060mia,Cincinnati Bengals,cin,7,Miami Dolphins,mia,19,Miami Dolphins,mia,Cincinnati Bengals,cin,13,2020
+450,202012060htx,Indianapolis Colts,clt,26,Houston Texans,htx,20,Indianapolis Colts,clt,Houston Texans,htx,13,2020
+451,202012060crd,Los Angeles Rams,ram,38,Arizona Cardinals,crd,28,Los Angeles Rams,ram,Arizona Cardinals,crd,13,2020
+452,202012060sea,New York Giants,nyg,17,Seattle Seahawks,sea,12,New York Giants,nyg,Seattle Seahawks,sea,13,2020
+453,202012060sdg,New England Patriots,nwe,45,Los Angeles Chargers,sdg,0,New England Patriots,nwe,Los Angeles Chargers,sdg,13,2020
+454,202012060gnb,Philadelphia Eagles,phi,16,Green Bay Packers,gnb,30,Green Bay Packers,gnb,Philadelphia Eagles,phi,13,2020
+455,202012060kan,Denver Broncos,den,16,Kansas City Chiefs,kan,22,Kansas City Chiefs,kan,Denver Broncos,den,13,2020
+456,202012070pit,Washington Football Team,was,23,Pittsburgh Steelers,pit,17,Washington Football Team,was,Pittsburgh Steelers,pit,13,2020
+457,202012070sfo,Buffalo Bills,buf,34,San Francisco 49ers,sfo,24,Buffalo Bills,buf,San Francisco 49ers,sfo,13,2020
+458,202012080rav,Dallas Cowboys,dal,17,Baltimore Ravens,rav,34,Baltimore Ravens,rav,Dallas Cowboys,dal,13,2020
+459,202012100ram,New England Patriots,nwe,3,Los Angeles Rams,ram,24,Los Angeles Rams,ram,New England Patriots,nwe,14,2020
+460,202012130car,Denver Broncos,den,32,Carolina Panthers,car,27,Denver Broncos,den,Carolina Panthers,car,14,2020
+461,202012130tam,Minnesota Vikings,min,14,Tampa Bay Buccaneers,tam,26,Tampa Bay Buccaneers,tam,Minnesota Vikings,min,14,2020
+462,202012130nyg,Arizona Cardinals,crd,26,New York Giants,nyg,7,Arizona Cardinals,crd,New York Giants,nyg,14,2020
+463,202012130mia,Kansas City Chiefs,kan,33,Miami Dolphins,mia,27,Kansas City Chiefs,kan,Miami Dolphins,mia,14,2020
+464,202012130jax,Tennessee Titans,oti,31,Jacksonville Jaguars,jax,10,Tennessee Titans,oti,Jacksonville Jaguars,jax,14,2020
+465,202012130cin,Dallas Cowboys,dal,30,Cincinnati Bengals,cin,7,Dallas Cowboys,dal,Cincinnati Bengals,cin,14,2020
+466,202012130chi,Houston Texans,htx,7,Chicago Bears,chi,36,Chicago Bears,chi,Houston Texans,htx,14,2020
+467,202012130sea,New York Jets,nyj,3,Seattle Seahawks,sea,40,Seattle Seahawks,sea,New York Jets,nyj,14,2020
+468,202012130rai,Indianapolis Colts,clt,44,Las Vegas Raiders,rai,27,Indianapolis Colts,clt,Las Vegas Raiders,rai,14,2020
+469,202012130sfo,Washington Football Team,was,23,San Francisco 49ers,sfo,15,Washington Football Team,was,San Francisco 49ers,sfo,14,2020
+470,202012130sdg,Atlanta Falcons,atl,17,Los Angeles Chargers,sdg,20,Los Angeles Chargers,sdg,Atlanta Falcons,atl,14,2020
+471,202012130phi,New Orleans Saints,nor,21,Philadelphia Eagles,phi,24,Philadelphia Eagles,phi,New Orleans Saints,nor,14,2020
+472,202012130det,Green Bay Packers,gnb,31,Detroit Lions,det,24,Green Bay Packers,gnb,Detroit Lions,det,14,2020
+473,202012130buf,Pittsburgh Steelers,pit,15,Buffalo Bills,buf,26,Buffalo Bills,buf,Pittsburgh Steelers,pit,14,2020
+474,202012140cle,Baltimore Ravens,rav,47,Cleveland Browns,cle,42,Baltimore Ravens,rav,Cleveland Browns,cle,14,2020
+475,202012170rai,Los Angeles Chargers,sdg,30,Las Vegas Raiders,rai,27,Los Angeles Chargers,sdg,Las Vegas Raiders,rai,15,2020
+476,202012190den,Buffalo Bills,buf,48,Denver Broncos,den,19,Buffalo Bills,buf,Denver Broncos,den,15,2020
+477,202012190gnb,Carolina Panthers,car,16,Green Bay Packers,gnb,24,Green Bay Packers,gnb,Carolina Panthers,car,15,2020
+478,202012200was,Seattle Seahawks,sea,20,Washington Football Team,was,15,Seattle Seahawks,sea,Washington Football Team,was,15,2020
+479,202012200rav,Jacksonville Jaguars,jax,14,Baltimore Ravens,rav,40,Baltimore Ravens,rav,Jacksonville Jaguars,jax,15,2020
+480,202012200oti,Detroit Lions,det,25,Tennessee Titans,oti,46,Tennessee Titans,oti,Detroit Lions,det,15,2020
+481,202012200min,Chicago Bears,chi,33,Minnesota Vikings,min,27,Chicago Bears,chi,Minnesota Vikings,min,15,2020
+482,202012200mia,New England Patriots,nwe,12,Miami Dolphins,mia,22,Miami Dolphins,mia,New England Patriots,nwe,15,2020
+483,202012200dal,San Francisco 49ers,sfo,33,Dallas Cowboys,dal,41,Dallas Cowboys,dal,San Francisco 49ers,sfo,15,2020
+484,202012200clt,Houston Texans,htx,20,Indianapolis Colts,clt,27,Indianapolis Colts,clt,Houston Texans,htx,15,2020
+485,202012200atl,Tampa Bay Buccaneers,tam,31,Atlanta Falcons,atl,27,Tampa Bay Buccaneers,tam,Atlanta Falcons,atl,15,2020
+486,202012200ram,New York Jets,nyj,23,Los Angeles Rams,ram,20,New York Jets,nyj,Los Angeles Rams,ram,15,2020
+487,202012200crd,Philadelphia Eagles,phi,26,Arizona Cardinals,crd,33,Arizona Cardinals,crd,Philadelphia Eagles,phi,15,2020
+488,202012200nor,Kansas City Chiefs,kan,32,New Orleans Saints,nor,29,Kansas City Chiefs,kan,New Orleans Saints,nor,15,2020
+489,202012200nyg,Cleveland Browns,cle,20,New York Giants,nyg,6,Cleveland Browns,cle,New York Giants,nyg,15,2020
+490,202012210cin,Pittsburgh Steelers,pit,17,Cincinnati Bengals,cin,27,Cincinnati Bengals,cin,Pittsburgh Steelers,pit,15,2020
+491,202012250nor,Minnesota Vikings,min,33,New Orleans Saints,nor,52,New Orleans Saints,nor,Minnesota Vikings,min,16,2020
+492,202012260det,Tampa Bay Buccaneers,tam,47,Detroit Lions,det,7,Tampa Bay Buccaneers,tam,Detroit Lions,det,16,2020
+493,202012260crd,San Francisco 49ers,sfo,20,Arizona Cardinals,crd,12,San Francisco 49ers,sfo,Arizona Cardinals,crd,16,2020
+494,202012260rai,Miami Dolphins,mia,26,Las Vegas Raiders,rai,25,Miami Dolphins,mia,Las Vegas Raiders,rai,16,2020
+495,202012270rav,New York Giants,nyg,13,Baltimore Ravens,rav,27,Baltimore Ravens,rav,New York Giants,nyg,16,2020
+496,202012270pit,Indianapolis Colts,clt,24,Pittsburgh Steelers,pit,28,Pittsburgh Steelers,pit,Indianapolis Colts,clt,16,2020
+497,202012270nyj,Cleveland Browns,cle,16,New York Jets,nyj,23,New York Jets,nyj,Cleveland Browns,cle,16,2020
+498,202012270kan,Atlanta Falcons,atl,14,Kansas City Chiefs,kan,17,Kansas City Chiefs,kan,Atlanta Falcons,atl,16,2020
+499,202012270jax,Chicago Bears,chi,41,Jacksonville Jaguars,jax,17,Chicago Bears,chi,Jacksonville Jaguars,jax,16,2020
+500,202012270htx,Cincinnati Bengals,cin,37,Houston Texans,htx,31,Cincinnati Bengals,cin,Houston Texans,htx,16,2020
+501,202012270was,Carolina Panthers,car,20,Washington Football Team,was,13,Carolina Panthers,car,Washington Football Team,was,16,2020
+502,202012270sdg,Denver Broncos,den,16,Los Angeles Chargers,sdg,19,Los Angeles Chargers,sdg,Denver Broncos,den,16,2020
+503,202012270sea,Los Angeles Rams,ram,9,Seattle Seahawks,sea,20,Seattle Seahawks,sea,Los Angeles Rams,ram,16,2020
+504,202012270dal,Philadelphia Eagles,phi,17,Dallas Cowboys,dal,37,Dallas Cowboys,dal,Philadelphia Eagles,phi,16,2020
+505,202012270gnb,Tennessee Titans,oti,14,Green Bay Packers,gnb,40,Green Bay Packers,gnb,Tennessee Titans,oti,16,2020
+506,202012280nwe,Buffalo Bills,buf,38,New England Patriots,nwe,9,Buffalo Bills,buf,New England Patriots,nwe,16,2020
+507,202101030buf,Miami Dolphins,mia,26,Buffalo Bills,buf,56,Buffalo Bills,buf,Miami Dolphins,mia,17,2020
+508,202101030tam,Atlanta Falcons,atl,27,Tampa Bay Buccaneers,tam,44,Tampa Bay Buccaneers,tam,Atlanta Falcons,atl,17,2020
+509,202101030nyg,Dallas Cowboys,dal,19,New York Giants,nyg,23,New York Giants,nyg,Dallas Cowboys,dal,17,2020
+510,202101030nwe,New York Jets,nyj,14,New England Patriots,nwe,28,New England Patriots,nwe,New York Jets,nyj,17,2020
+511,202101030det,Minnesota Vikings,min,37,Detroit Lions,det,35,Minnesota Vikings,min,Detroit Lions,det,17,2020
+512,202101030cle,Pittsburgh Steelers,pit,22,Cleveland Browns,cle,24,Cleveland Browns,cle,Pittsburgh Steelers,pit,17,2020
+513,202101030cin,Baltimore Ravens,rav,38,Cincinnati Bengals,cin,3,Baltimore Ravens,rav,Cincinnati Bengals,cin,17,2020
+514,202101030chi,Green Bay Packers,gnb,35,Chicago Bears,chi,16,Green Bay Packers,gnb,Chicago Bears,chi,17,2020
+515,202101030car,New Orleans Saints,nor,33,Carolina Panthers,car,7,New Orleans Saints,nor,Carolina Panthers,car,17,2020
+516,202101030sfo,Seattle Seahawks,sea,26,San Francisco 49ers,sfo,23,Seattle Seahawks,sea,San Francisco 49ers,sfo,17,2020
+517,202101030ram,Arizona Cardinals,crd,7,Los Angeles Rams,ram,18,Los Angeles Rams,ram,Arizona Cardinals,crd,17,2020
+518,202101030kan,Los Angeles Chargers,sdg,38,Kansas City Chiefs,kan,21,Los Angeles Chargers,sdg,Kansas City Chiefs,kan,17,2020
+519,202101030htx,Tennessee Titans,oti,41,Houston Texans,htx,38,Tennessee Titans,oti,Houston Texans,htx,17,2020
+520,202101030den,Las Vegas Raiders,rai,32,Denver Broncos,den,31,Las Vegas Raiders,rai,Denver Broncos,den,17,2020
+521,202101030clt,Jacksonville Jaguars,jax,14,Indianapolis Colts,clt,28,Indianapolis Colts,clt,Jacksonville Jaguars,jax,17,2020
+522,202101030phi,Washington Football Team,was,20,Philadelphia Eagles,phi,14,Washington Football Team,was,Philadelphia Eagles,phi,17,2020
+523,202101090buf,Indianapolis Colts,clt,24,Buffalo Bills,buf,27,Buffalo Bills,buf,Indianapolis Colts,clt,18,2020
+524,202101090sea,Los Angeles Rams,ram,30,Seattle Seahawks,sea,20,Los Angeles Rams,ram,Seattle Seahawks,sea,18,2020
+525,202101090was,Tampa Bay Buccaneers,tam,31,Washington Football Team,was,23,Tampa Bay Buccaneers,tam,Washington Football Team,was,18,2020
+526,202101100oti,Baltimore Ravens,rav,20,Tennessee Titans,oti,13,Baltimore Ravens,rav,Tennessee Titans,oti,18,2020
+527,202101100nor,Chicago Bears,chi,9,New Orleans Saints,nor,21,New Orleans Saints,nor,Chicago Bears,chi,18,2020
+528,202101100pit,Cleveland Browns,cle,48,Pittsburgh Steelers,pit,37,Cleveland Browns,cle,Pittsburgh Steelers,pit,18,2020
+529,202101160gnb,Los Angeles Rams,ram,18,Green Bay Packers,gnb,32,Green Bay Packers,gnb,Los Angeles Rams,ram,19,2020
+530,202101160buf,Baltimore Ravens,rav,3,Buffalo Bills,buf,17,Buffalo Bills,buf,Baltimore Ravens,rav,19,2020
+531,202101170kan,Cleveland Browns,cle,17,Kansas City Chiefs,kan,22,Kansas City Chiefs,kan,Cleveland Browns,cle,19,2020
+532,202101170nor,Tampa Bay Buccaneers,tam,30,New Orleans Saints,nor,20,Tampa Bay Buccaneers,tam,New Orleans Saints,nor,19,2020
+533,202101240gnb,Tampa Bay Buccaneers,tam,31,Green Bay Packers,gnb,26,Tampa Bay Buccaneers,tam,Green Bay Packers,gnb,20,2020
+534,202101240kan,Buffalo Bills,buf,24,Kansas City Chiefs,kan,38,Kansas City Chiefs,kan,Buffalo Bills,buf,20,2020
+535,202102070tam,Kansas City Chiefs,kan,9,Tampa Bay Buccaneers,tam,31,Tampa Bay Buccaneers,tam,Kansas City Chiefs,kan,21,2020
+536,202109090tam,Dallas Cowboys,dal,29,Tampa Bay Buccaneers,tam,31,Tampa Bay Buccaneers,tam,Dallas Cowboys,dal,1,2021
+537,202109120buf,Pittsburgh Steelers,pit,23,Buffalo Bills,buf,16,Pittsburgh Steelers,pit,Buffalo Bills,buf,1,2021
+538,202109120atl,Philadelphia Eagles,phi,32,Atlanta Falcons,atl,6,Philadelphia Eagles,phi,Atlanta Falcons,atl,1,2021
+539,202109120was,Los Angeles Chargers,sdg,20,Washington Football Team,was,16,Los Angeles Chargers,sdg,Washington Football Team,was,1,2021
+540,202109120oti,Arizona Cardinals,crd,38,Tennessee Titans,oti,13,Arizona Cardinals,crd,Tennessee Titans,oti,1,2021
+541,202109120htx,Jacksonville Jaguars,jax,21,Houston Texans,htx,37,Houston Texans,htx,Jacksonville Jaguars,jax,1,2021
+542,202109120det,San Francisco 49ers,sfo,41,Detroit Lions,det,33,San Francisco 49ers,sfo,Detroit Lions,det,1,2021
+543,202109120clt,Seattle Seahawks,sea,28,Indianapolis Colts,clt,16,Seattle Seahawks,sea,Indianapolis Colts,clt,1,2021
+544,202109120cin,Minnesota Vikings,min,24,Cincinnati Bengals,cin,27,Cincinnati Bengals,cin,Minnesota Vikings,min,1,2021
+545,202109120car,New York Jets,nyj,14,Carolina Panthers,car,19,Carolina Panthers,car,New York Jets,nyj,1,2021
+546,202109120nyg,Denver Broncos,den,27,New York Giants,nyg,13,Denver Broncos,den,New York Giants,nyg,1,2021
+547,202109120nwe,Miami Dolphins,mia,17,New England Patriots,nwe,16,Miami Dolphins,mia,New England Patriots,nwe,1,2021
+548,202109120nor,Green Bay Packers,gnb,3,New Orleans Saints,nor,38,New Orleans Saints,nor,Green Bay Packers,gnb,1,2021
+549,202109120kan,Cleveland Browns,cle,29,Kansas City Chiefs,kan,33,Kansas City Chiefs,kan,Cleveland Browns,cle,1,2021
+550,202109120ram,Chicago Bears,chi,14,Los Angeles Rams,ram,34,Los Angeles Rams,ram,Chicago Bears,chi,1,2021
+551,202109130rai,Baltimore Ravens,rav,27,Las Vegas Raiders,rai,33,Las Vegas Raiders,rai,Baltimore Ravens,rav,1,2021
